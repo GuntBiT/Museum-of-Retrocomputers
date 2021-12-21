@@ -3,7 +3,6 @@
 require "includes/db.php";
 
 ?>
-
 <!DOCTYPE html>
 <html lang="ru">
 
